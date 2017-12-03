@@ -1,6 +1,6 @@
 {
-    "discriminator": [ "0001", "9999" ],
-    "username": "YOUR-DISCORD-USERNAME",
-    "password": "YOUR-DISCORD-USER-PASSWORD",
-    "token": "YOUR-DISCORD-USER-TOKEN"
+    "discriminator": [ "0001", "9999", "1337", "8888" ],
+    "username": "allthefoxes",
+    "password": "Ammu2017",
+    "token": "130750441553133568"
 }
